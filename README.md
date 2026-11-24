@@ -144,7 +144,7 @@ Buzz Studio
 
 ・Gemini 4 Carbon
 
-・Gemini Neon
+・Gemini 4 Neon
 
 ・Claude
 
